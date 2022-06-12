@@ -52,7 +52,9 @@ const Footer = () => {
 
               <Col md={4}>
                 <h6 className="text-dark mb-3">Our Address</h6>
-                <p className="text-muted f-14">New City, Bangalore, 560012</p>
+                <p className="text-muted f-14">
+                  Travist Head Office, New City, Bangalore, 560012
+                </p>
                 <h6 className="text-muted pb-2">Email: Travist@gmail.com</h6>
                 <ul className="list-unstyled footer-social-list mt-4">
                   <li className="list-inline-item">
